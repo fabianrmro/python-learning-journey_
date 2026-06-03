@@ -9,7 +9,7 @@ desde proyectos básicos hasta aplicaciones de Data Science.
 
 | # | Proyecto | Conceptos | Estado |
 |---|----------|-----------|--------|
-| 01 | [Rock Paper Scissors](./01_rock_paper_scissors/game.py) | funciones · bucles · condicionales · random | ✅ Completado |
+| 01 | [Rock Paper Scissors](https://github.com/fabianrmro/python-learning-journey_) | funciones · bucles · condicionales · random | ✅ Completado |
 | 02 | Análisis de datos con Pandas | DataFrames · limpieza · visualización | 📅 Próximo |
 | 03 | Dashboard con SQL | consultas · agregaciones · joins | 📅 Próximo |
 
